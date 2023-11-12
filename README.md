@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://cdn.discordapp.com/attachments/1094261264454254672/1173355851742978159/Lumabot_Dclog.png?ex=6563a7ca&is=655132ca&hm=078e3ab4579edf302f1ac060b8eab9c6cb6b98be40c0638fa56a25000dac5de6&)" alt="Logo" width="80" height="80">
+    <img href="https://cdn.discordapp.com/attachments/1094261264454254672/1173355851742978159/Lumabot_Dclog.png?ex=6563a7ca&is=655132ca&hm=078e3ab4579edf302f1ac060b8eab9c6cb6b98be40c0638fa56a25000dac5de6&" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
